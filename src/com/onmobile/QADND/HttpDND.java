@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletResponse;
  * Servlet implementation class HttpDND
  */
 
-//checking first change in branch1.1 commit
+//checking first change in branch1.2 commit
 
 @WebServlet("/HttpDND")
 public class HttpDND extends HttpServlet {
