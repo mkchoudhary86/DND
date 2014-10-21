@@ -6,7 +6,7 @@ import javax.servlet.ServletOutputStream;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-
+// additional commit om M1.2
 @SuppressWarnings("serial")
 public class HttpDNDStatus extends HttpServlet{
 	public void doGet(HttpServletRequest request,HttpServletResponse response){
